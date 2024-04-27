@@ -1,4 +1,4 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: vvalchev/creative-theme-jekyll-new
 plugins:
 - jekyll-remote-theme
 title: WWS Philly
